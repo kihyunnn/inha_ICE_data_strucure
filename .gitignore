@@ -1,0 +1,17 @@
+# CMake 빌드 폴더 무시
+cmake-build-*
+
+# 특정 파일 무시 (CMakeLists.txt 제외)
+*.txt
+
+# 디버그 폴더 무시
+Debug/
+debug/
+
+# 기타 빌드 아티팩트 및 임시 파일 무시
+*.log
+*.obj
+*.exe
+*.out
+*.class
+*.o
