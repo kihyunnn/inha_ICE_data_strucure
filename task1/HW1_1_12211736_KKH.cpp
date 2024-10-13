@@ -1,11 +1,11 @@
 //HW1_12211736_김기현
 #include <iostream>
-// #include "Arith.h"
-// #include "Geom.h"
+#include "Arith.h"
+#include "Geom.h"
 //상속 테스트용
-#include "Progression.h"
-#include "Arith_inher.h"
-#include "Geom_inher.h"
+// #include "Progression.h"
+// #include "Arith_inher.h"
+// #include "Geom_inher.h"
 using namespace std;
 
 int main()
